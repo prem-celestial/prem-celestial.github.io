@@ -1,4 +1,4 @@
-The projects I have contributed and participated:
+The projects I have contributed and participated: 
 ### Froala Editor:
 
 Froala Editor is an enterprise solutions for web editor having 80k + NPM downloads per week last year
